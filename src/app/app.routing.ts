@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes, Router } from '@angular/router';
-import { NavigatorService } from './core/utils/services/navigator.service';
+import { RouterModule, Routes } from '@angular/router';
 
 const commonsRoutes: Routes = [
   {

@@ -4,7 +4,7 @@ import { SharedModule } from '../../shared/shared.module';
 
 import { HomeDesktopComponent } from './home.component.desktop';
 import { RouterModule } from '@angular/router';
-import { LoginComponent } from 'src/app/features/login/login.component';
+import { LoginComponent } from '../../features/login/login.component';
 
 @NgModule({
   imports: [
