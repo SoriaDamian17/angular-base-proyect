@@ -49,6 +49,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "angular-base-proyect",
               "budgets": [
                 {
                   "type": "initial",
